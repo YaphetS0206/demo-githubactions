@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Echo the message 
         run: |
-          echo "Hola a todos! 
+          echo "Hola a todos!"
